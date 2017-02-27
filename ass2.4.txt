@@ -1,0 +1,6 @@
+Importance of name node in hadoop cluster:
+                                   It used to store Meta Data about data nodes.a name node is a 
+                                   master node.
+                                   It keeps the directory tree of all files in the file system, 
+                                   and tracks where across the cluster the file data is kept. 
+                                   It does not store the data of these files itself.
